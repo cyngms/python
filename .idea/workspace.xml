@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c796ba6e-4460-4926-8aed-734b0420c1ea" name="Changes" comment="" />
+    <list default="true" id="c796ba6e-4460-4926-8aed-734b0420c1ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -30,6 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/polli/AppData/Roaming/JetBrains/PyCharm2023.2/scratches/Clase 8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -145,7 +151,7 @@
       <workItem from="1695691298908" duration="932000" />
       <workItem from="1695857384618" duration="34000" />
       <workItem from="1695857479032" duration="17637000" />
-      <workItem from="1696284039960" duration="8574000" />
+      <workItem from="1696284039960" duration="9019000" />
     </task>
     <servers />
   </component>
